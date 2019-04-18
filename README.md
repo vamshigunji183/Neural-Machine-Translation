@@ -16,7 +16,7 @@ Language Translation (NMT).
 Example:
 
 Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![En-De Translation](https://github.com/vamshigunji183/Neural-Machine-Translation/blob/master/En-De%20Translation/En-De%20Translation.JPG)
 
 ## Dependencies
 
